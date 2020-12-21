@@ -8,7 +8,7 @@ This solution allows for the configuration of the auto-remediation behaviour bas
 
 The solution architecture and eight step interaction sequence are detailed below in Figure 1.
 
-[Image: image.png]
+![Solution Architecture](https://github.com/aws-samples/amazonmacie-chatops-remediation/raw/main/images/MacieBlogSolution.png)
 *Figure 1 - Solution Overview*
 
 1. Amazon Macie is configured with [sensitive data discovery jobs](https://docs.aws.amazon.com/macie/latest/user/discovery-jobs.html) (scheduled or adhoc) which detect sensitive data within [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html) buckets. See [here](https://docs.aws.amazon.com/macie/latest/user/managed-data-identifiers.html) for a full list of the categories of sensitive data Macie can detect.

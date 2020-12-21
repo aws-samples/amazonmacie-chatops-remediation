@@ -109,7 +109,7 @@ function buildSlackMessage(finding) {
             },
             "accessory": {
                 "type": "image",
-                "image_url": "https://raw.githubusercontent.com/nikcuneo/macie-auto-remediation/master/images/macielogo.png",
+                "image_url": "https://github.com/aws-samples/amazonmacie-chatops-remediation/raw/main/images/macielogo.png",
                 "alt_text": "Macie image"
             }
         },
