@@ -1,0 +1,15 @@
+{
+  "name": "macie-remediation-handler",
+  "version": "1.0.0",
+  "description": "Macie Remediation Handler",
+  "main": "macie-remediation-handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikocuneo",
+  "license": "MIT-0",
+  "dependencies": {
+    "macie-rem-common": "file:../common/macie-rem-common",
+    "tsscmp": "^1.0.6"
+  }
+}

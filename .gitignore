@@ -1,0 +1,17 @@
+*.js
+!jest.config.js
+!src/macie-remediation-handler/*
+!src/macie-finding-handler/*
+!src/macie-remediator/*
+!src/common/*
+!src/common/macie-rem-common/*
+*.d.ts
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Parcel default cache directory
+.parcel-cache
+src/.DS_Store

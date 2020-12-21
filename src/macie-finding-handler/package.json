@@ -1,0 +1,14 @@
+{
+  "name": "macie-finding-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "macie-finding-handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikocuneo",
+  "license": "MIT-0",
+  "dependencies": {
+    "macie-rem-common": "file:../common/macie-rem-common"
+  }
+}

@@ -1,0 +1,4 @@
+This is a sample file with a dummy credit card
+Card Number: 5163200000000008
+Expirty Date: 08/20
+CVN: 070
