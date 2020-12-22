@@ -1,8 +1,12 @@
 {
   "name": "macie-remediation-handler",
   "version": "1.0.0",
-  "description": "Macie Remediation Handler",
+  "description": "Handler for human initiated remediation of Amazon Macie findings",
   "main": "macie-remediation-handler.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aws-samples/amazonmacie-chatops-remediation.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
