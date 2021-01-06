@@ -33,7 +33,7 @@ Before proceeding to deploy the solution ensure your environment is setup with t
 
 ## **Deploying & Testing the Solution**
 
-Full walkthrough instructions instructions for configuring Slack and deploying the solution via AWS CDK are available in a blog post here.
+Full walkthrough instructions instructions for configuring Slack and deploying the solution via AWS CDK are available in a blog post [here](https://aws.amazon.com/blogs/security/deploy-an-automated-chatops-solution-for-remediating-amazon-macie-findings/).
 
 ## **Security**
 
